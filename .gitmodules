@@ -1,0 +1,3 @@
+[submodule "/Users/bellarao/NetBeansProjects/LabSession6/getting-started-app"] 
+  path = /Users/bellarao/NetBeansProjects/LabSession6/getting-started-app 
+  url = https://github.com/docker/getting-started-app.git
